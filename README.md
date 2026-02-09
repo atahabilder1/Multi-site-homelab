@@ -128,14 +128,14 @@ Both sites connect to the internet through **Wayne State University's network in
 |:-----|:--------|
 | **Hostname** | *TBD* |
 | **Form Factor** | Mac Mini |
-| **CPU** | *TBD* |
-| **RAM** | *TBD* |
+| **CPU** | Apple M2 (8-core CPU / 10-core GPU) |
+| **RAM** | 16 GB Unified Memory |
 | **Storage** | *TBD* |
 | **NIC** | *TBD* |
 | **MAC Address** | *TBD* |
 | **Private IP** | *TBD* |
 | **Tailscale IP** | *TBD* |
-| **OS** | *TBD* |
+| **OS** | macOS |
 | **Role** | Web server (portfolio) + development (SSH) |
 | **Domain** | `*.tahabilder.com` (subdomains) |
 | **Public Access** | Via **Cloudflare Tunnel** — serves web projects to the public |
